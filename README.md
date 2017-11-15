@@ -1,2 +1,2 @@
-# ProgPara2017
-Source code examples for the UG/PG versions of the Programming Paradigms module @ Birkbeck
+The example source code for the Programming Paradigms module 2016-17 @ Dept of Computer Science, Birkbeck, University of London.
+----------------
